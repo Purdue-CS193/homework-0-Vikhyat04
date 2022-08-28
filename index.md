@@ -1,4 +1,4 @@
-# <Vikhyat's First CS193 Homework
+# Vikhyat's First CS193 Homework
 
 ## What I love about CS193
 -Love how this course is teaching us how to navigate GITHUB
